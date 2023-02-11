@@ -1,0 +1,159 @@
+// These are the styles to make some of the templates look extra nice.
+// Feel free to remove these styles for production!
+
+// Body Styles 
+body,
+html, 
+.body {
+  background: #F3F3F3 !important;
+}
+.container{
+  max-width: 580px;
+}
+.papa-row{
+  margin-top: 20px !important;
+}
+.thank-you{
+  font-size: 30px;
+  text-align: center;
+  font-weight: bold;
+  color: #333333 !important;
+  font-family: Helvetica, Arial, sans-serif;
+  line-height: 1.3;
+  padding-top: 5px;
+}
+.pizza-track{
+  width: 56px;
+  max-width: 56px;
+  text-align: center;
+  padding-top: 20px;
+}
+.papa-track{
+  font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+}
+.tn{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.track-now{
+  background-color: #000000;
+  color: #ffffff !important;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 30px;
+  font-weight: 700;
+  margin-top: 20px !important;
+}
+.ready{
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  color: #333333;
+  padding-top: 30px;
+}
+.approx{
+  font-size: 24px;
+  font-weight: 400;
+  text-align: center;
+  color: #333333;
+  font-weight: bold;
+  line-height: 1;
+  }
+  .order{
+    font-size: 16px;
+  text-align: center;
+  font-weight: bold;
+  color: #333333 !important;
+  font-family: Helvetica, Arial, sans-serif;
+  margin-bottom: 0;
+  }
+  .order-bottom{
+    font-size: 16px;
+  text-align: center;
+  color: #333333 !important;
+  font-family: Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  }
+  .bg{
+    background-color: #2d5d2a;
+    & > tbody > tr > th{
+      padding-bottom: 0 !important;
+    }
+    .rewards{
+      width: 140px;
+      margin-top: 56px;
+      margin-left: 56px;
+      margin-bottom: 56px;
+
+    }
+  }
+  .yellow-text{
+    font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+    color: #cfeb0c!important;
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: bold;
+    padding-top: 45px;
+    padding-left: 10px;
+  }
+  .join-space{
+    padding-left: 10px;
+    .join{
+      text-transform: uppercase;
+      text-decoration: none;
+      font-family: 'HCo Knockout 51',HelveticaNeue-CondensedBold,'Arial Narrow',Arial,sans-serif!important;
+      color: #000000 !important;
+      padding-bottom: 6px;
+      padding-left: 15px;
+      padding-right: 15px;
+      padding-top: 7px;
+      background-color: #cfeb0c;
+      border: 2px solid #ffffff;
+      font-weight: 700;
+    }
+  }
+  
+  .order-details{
+    padding-top: 30px !important;
+    padding-left: 30px;
+    font-weight: bold;
+    color: #333333;
+  }
+  .font-color{
+    color: #333333 !important;
+  }
+  .font-bold{
+    font-weight: bold;
+  }
+  .total{
+    padding-left: 81px;
+    line-height: 2;
+    color: #333333;
+  }
+  .small-text-left1{
+    padding-left: 60px !important;
+  }
+ 
+  .small-text-left2{
+  padding-right: 60px !important;
+  }
+  .prices{
+    line-height: 2;
+    color: #333333;
+  }
+  .restaurant{
+    display: block;
+    padding-bottom: 10px;
+  }
+  .fee{
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .container-bottom{
+    margin-bottom: 40px !important;
+  }
+  
