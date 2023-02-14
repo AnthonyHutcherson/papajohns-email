@@ -6,11 +6,11 @@
   "main": "gulpfile.babel.js",
   "scripts": {
     "start": "gulp",
-    "build": "gulp --production",
-    "zip": "gulp zip --production",
-    "litmus": "gulp litmus --production",
-    "mail": "gulp mail --production"
-  },
+    "build": "export OPENSSL_CONF=/dev/null && gulp --production",
+    "zip": "export OPENSSL_CONF=/dev/null && gulp zip --production",
+    "litmus": "export OPENSSL_CONF=/dev/null && gulp litmus --production",
+    "mail": "export OPENSSL_CONF=/dev/null && gulp mail --production"
+},
   "author": "Foundation <contact@get.foundation> (https://get.foundation)",
   "license": "MIT",
   "dependencies": {
