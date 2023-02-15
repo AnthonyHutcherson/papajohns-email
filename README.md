@@ -1,6 +1,12 @@
-# Foundation for Emails Template
+# Papa Johns Transactional Email Template Using Foundation
 
 [![devDependency Status](https://david-dm.org/zurb/foundation-emails-template/dev-status.svg)](https://david-dm.org/zurb/foundation-emails-template#info=devDependencies)
+
+## This is a transactional email that I built with Foundation. I used Inky, html, css, and sass to build this project.
+It's responsive on desktop, tablet, and mobile devices.
+
+[Link to project](https://papajohns-email.netlify.app/)
+![Papa Johns email](https://i.ibb.co/K0PQV65/papajohns.png)
 
 **Please open all issues with this template on the main [Foundation for Emails](http://github.com/zurb/foundation-emails/issues) repo.**
 
